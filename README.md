@@ -1,4 +1,4 @@
-# SimpleRecyclerViewExample
+# Simple RecyclerView Example
 Simple Recycler View example with binding adapter and view binding.
 
 Using recylerview.adapter instead of ListAdapter. 
